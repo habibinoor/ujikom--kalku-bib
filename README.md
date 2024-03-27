@@ -1,2 +1,2 @@
-# UjiKom-Bib
+# UjiKom-bib
 kalkulator digital berbasis web
